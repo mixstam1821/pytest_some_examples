@@ -1,0 +1,8 @@
+pytest>=8.0
+numpy
+pandas
+xarray
+netCDF4
+fastapi
+httpx
+requests
