@@ -3,7 +3,7 @@
 A small, self-contained repo demonstrating core pytest patterns against
 domain code shaped like a real satellite-data pipeline (QA masking,
 unit conversion, a fetch-from-remote-API function) plus a tiny FastAPI
-service.
+service, similar in spirit to a backend like Xenia.
 
 ## Structure
 
